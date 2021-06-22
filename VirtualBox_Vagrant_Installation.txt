@@ -4,6 +4,7 @@ Vagrant can be used with multiple hypervisor. Preferably i am using Virtualbox f
       $ sudo apt-get update
       $ sudo wget https://download.virtualbox.org/virtualbox/6.1.22/virtualbox-6.1_6.1.22-144080~Ubuntu~bionic_amd64.deb
       $ sudo apt install ./virtualbox-6.1_6.1.22-144080~Ubuntu~bionic_amd64.deb
+      $ sudo virtualbox & --> Open Virtualbox as root user
 
     Installation of Vagrant on Ubuntu
       $ sudo apt-get update
